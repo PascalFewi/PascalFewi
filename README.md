@@ -22,6 +22,12 @@ Other projects:
 - **Meischter-Rächnär** – A small web app to calculate Swiss football league title chances.  
   [GitHub Repo](https://github.com/PascalFewi/Meischter-Raechner) | [Live App](https://pascalfewi.github.io/Meischter-Raechner/)
 
+Used to do some WordPress: 
+
+- **MBImmoeasy** [www.mbimmoeasy.ch/](https://www.mbimmoeasy.ch/)
+- **Druckerei Dietrich** [druckerei-dietrich.ch/](https://druckerei-dietrich.ch/)
+- **Blueme Atelier** [blueme-atelier.ch/](https://blueme-atelier.ch/)
+
 ---
 
 Always happy to connect or collaborate!
