@@ -1,4 +1,4 @@
-#👋 Hi, I’m Pascal!
+# 👋 Hi, I’m Pascal!
 Studying Computer Science at ETH Zürich
 
 
