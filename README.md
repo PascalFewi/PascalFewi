@@ -16,10 +16,10 @@ In my free time, I explore how to make on-chain prediction market data more acce
 
 Other projects:
 
-- **EM2024 Betting Odds Crawler** – Scrapes betting odds from Swisslos to find optimal bets with friends.  
+- **EM2024 Betting Odds Crawler** – Scrapes betting odds from Swisslos to find best bets for community betting 🤥.  
   [GitHub Repo](https://github.com/PascalFewi/EM2024_BettingOdds_Crawler)
 
-- **Meischter-Rächnär** – A small web app to calculate Swiss football league title chances.  
+- **Meischter-Rächnär** – A small web app to calculate Swiss football league title chances .  
   [GitHub Repo](https://github.com/PascalFewi/Meischter-Raechner) | [Live App](https://pascalfewi.github.io/Meischter-Raechner/)
 
 Used to do some WordPress: 
