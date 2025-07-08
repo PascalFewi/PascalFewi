@@ -19,7 +19,7 @@ Other projects:
 - **EM2024 Betting Odds Crawler** – Scrapes betting odds from Swisslos to find best bets for community betting 🤥.  
   [GitHub Repo](https://github.com/PascalFewi/EM2024_BettingOdds_Crawler)
 
-- **Meischter-Rächnär** – A small web app to calculate Swiss football league title chances .  
+- **Meischter-Rächnär** – A small web app that shows when FC Basel would officially become Swiss champion, based on user-selected match outcomes. 
   [GitHub Repo](https://github.com/PascalFewi/Meischter-Raechner) | [Live App](https://pascalfewi.github.io/Meischter-Raechner/)
 
 Used to do some WordPress: 
