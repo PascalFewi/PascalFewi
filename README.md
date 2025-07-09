@@ -16,6 +16,8 @@ In my free time, I explore how to make on-chain prediction market data more acce
 
 Other projects:
 
+- **[20min Fantasy](https://github.com/PascalFewi/20minfantasy)** – Optimized Squad Picking for  20 Min Fantasy Game. A knapsack approached best 11 picker 🤯
+
 - **EM2024 Betting Odds Crawler** – Scrapes betting odds from Swisslos to find best bets for community betting 🤥.  
   [GitHub Repo](https://github.com/PascalFewi/EM2024_BettingOdds_Crawler)
 
