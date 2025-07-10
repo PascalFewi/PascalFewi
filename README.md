@@ -1,8 +1,12 @@
 # 👋 Hi, I’m Pascal!
 Studying Computer Science at ETH Zürich
 
+That's me: 
+![thesis_opensim](opensim.png)
 
 Currently working on my thesis: Pose Estimation for Bike Fitting.
+
+
 
 ---
 
