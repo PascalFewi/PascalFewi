@@ -18,9 +18,9 @@ Football ⚽ :
 - **Meischter-Rächner** – An interactive table that shows based on the inputed outcomes form the user, when FC Basel would officially become Swiss champion. 
   [GitHub Repo](https://github.com/PascalFewi/Meischter-Raechner) | [Live App](https://pascalfewi.github.io/Meischter-Raechner/)
 
-- **[20min Fantasy](https://github.com/PascalFewi/20minfantasy)** – Tried to optimize my fantasy squad based on the performance of last season using a knapsack approach for points per cost.  
+- **20min Fantasy Squad** – Tried to optimize my fantasy squad based on the performance of last season using a knapsack approach for points per cost.  [GitHub Repo](https://github.com/PascalFewi/20minfantasy)
 
-- **Betting Odds Crawler** – Scrapes betting odds from Swisslos to find best bets. Project was used for the UEFA EUROS 2024. 
+- **Swisslos Odds Crawler** – Scrapes betting odds from Swisslos to find best bets. Project was used for the UEFA EUROS 2024. 
   [GitHub Repo](https://github.com/PascalFewi/EM2024_BettingOdds_Crawler)
 
 
