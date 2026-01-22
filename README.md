@@ -1,7 +1,10 @@
 # 👋 Hi, I’m Pascal!
 Studying Computer Science at ETH Zürich
 
-Currently working on my thesis: Pose Estimation for Bike Fitting.
+I'm interested in analyzing and visualizing data as well as Computer Vision.
+Usually about my favorite Sports (football / cycling / running) or more recently also on prediciton markets. 
+
+Currently working on making my bachelor thesis "Pose Estimation for Bike Fitting" available. 
 
 That's me cycling: 
 
@@ -12,21 +15,21 @@ That's me cycling:
 ---
 Football ⚽ :
 
-- **Meischter-Rächner** – A small web app that shows when FC Basel would officially become Swiss champion, based on user-selected match outcomes. 
+- **Meischter-Rächner** – An interactive table that shows based on the inputed outcomes form the user, when FC Basel would officially become Swiss champion. 
   [GitHub Repo](https://github.com/PascalFewi/Meischter-Raechner) | [Live App](https://pascalfewi.github.io/Meischter-Raechner/)
 
-- **[20min Fantasy](https://github.com/PascalFewi/20minfantasy)** – Optimized Squad Picking for  20 Min Fantasy Game. A knapsack approached best 11 picker 🤯
+- **[20min Fantasy](https://github.com/PascalFewi/20minfantasy)** – Tried to optimize my fantasy squad based on the performance of last season using a knapsack approach for points per cost.  
 
-- **EM2024 Betting Odds Crawler** – Scrapes betting odds from Swisslos to find best bets for community betting 🤥.  
+- **Betting Odds Crawler** – Scrapes betting odds from Swisslos to find best bets. Project was used for the UEFA EUROS 2024. 
   [GitHub Repo](https://github.com/PascalFewi/EM2024_BettingOdds_Crawler)
 
 
 PolyMarket 💠 : 
 
-- **Polymarket Orderbook Collector** – Archives Polymarket order book data for analysis.  
+- **Polymarket Orderbook Collector** – Archives Polymarket order book data for analysis. Collected polymarket bets about bitcoin for over a year with this script.   
   [GitHub Repo](https://github.com/PascalFewi/Polymarket_Orderbook_Collector) – Data coming soon.
 
-- **Polymarket Trading Analytics** – Introduction to the collected data, Analysis Coming soon.  
+- **Polymarket Trading Analytics** – Introduction to the collected data + Analysis Coming soon.   
   [GitHub Repo](https://github.com/PascalFewi/Polymarket_Trading)
 
 
