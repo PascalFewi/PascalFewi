@@ -26,11 +26,11 @@ Football ⚽ :
 
 PolyMarket 💠 : 
 
-- **Polymarket Orderbook Collector** – Archives Polymarket order book data for analysis. Collected polymarket bets about bitcoin for over a year with this script.   
-  [GitHub Repo](https://github.com/PascalFewi/Polymarket_Orderbook_Collector) – Data coming soon.
+- **Polymarket Orderbook Collector** – Archives Polymarket order book data. Collects polymarket bets over the official polymarket websocket and arhcives it.   
+  [GitHub Repo]([https://github.com/PascalFewi/Polymarket_Orderbook_Collector](https://github.com/PascalFewi/polymarket-data)) – Data coming soon.
 
-- **Polymarket Trading Analytics** – Introduction to the collected data + Analysis Coming soon.   
-  [GitHub Repo](https://github.com/PascalFewi/Polymarket_Trading)
+- **Polymarket Historical Orderbooks API** – Archived Data was made available over the following script. Find the documentation in the Repo, for accessing a sample portion of the data, that is public available.
+  [GitHub Repo]([https://github.com/PascalFewi/Polymarket_Trading](https://github.com/PascalFewi/polymarket-api))
 
 
 
