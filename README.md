@@ -8,11 +8,19 @@ Currently working on making my bachelor thesis "Pose Estimation for Bike Fitting
 
 That's me cycling: 
 
-![thesis_opensim](opensim.png)
+<img src="opensim.png" alt="Alt Text" width="200">
 
 
 
 ---
+
+Cycling 🚴 :
+- **KOM QOM** – Explore Strava segments on an interactive map. 
+  Find segments by panning/zooming, see stats (length, grade, elevation, KOM times) 
+  and difficulty scores based on a physics model.
+  [GitHub Repo](https://github.com/PascalFewi/komqom) | [Live App](https://komqom.app)
+
+  
 Football ⚽ :
 
 - **Meischter-Rächner** – An interactive table that shows based on the inputed outcomes form the user, when FC Basel would officially become Swiss champion. 
