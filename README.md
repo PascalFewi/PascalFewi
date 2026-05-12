@@ -2,7 +2,7 @@
 Studying Computer Science at ETH Zürich
 
 I'm interested in analyzing and visualizing data as well as Computer Vision.
-Usually about my favorite Sports (football / cycling / running) or more recently also on prediciton markets. 
+Usually about my favorite Sports (football / cycling) or more recently also on prediciton markets. 
 
 Currently working on making my bachelor thesis "Pose Estimation for Bike Fitting" available. 
 
@@ -18,7 +18,7 @@ Cycling 🚴 :
 - **KOM QOM** – Explore Strava segments on an interactive map. 
   Find segments by panning/zooming, see stats (length, grade, elevation, KOM times) 
   and difficulty scores based on a physics model.
-  [GitHub Repo](https://github.com/PascalFewi/komqom) | [Live App](https://komqom.app)
+  [GitHub Repo](https://github.com/PascalFewi/komqom) | [Live App](https://komqom.app) (still restricted in Sandbox mode, waiting for Strava approval 😴)
 
   
 Football ⚽ :
@@ -38,7 +38,7 @@ PolyMarket 💠 :
   [GitHub Repo](https://github.com/PascalFewi/polymarket-data)
 
 - **Polymarket Historical Orderbooks API** – Archived Data was made available over the following script. Find the documentation in the Repo, for accessing a sample portion of the data, that is public available.
-  [GitHub Repo](https://github.com/PascalFewi/polymarket-api)
+  [GitHub Repo](https://github.com/PascalFewi/polymarket-api) (Live Demo offline again. To much server costs 💸)
 
 
 
