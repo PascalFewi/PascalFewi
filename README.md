@@ -18,7 +18,7 @@ Cycling 🚴 :
 - **KOM QOM** – Explore Strava segments on an interactive map. 
   Find segments by panning/zooming, see stats (length, grade, elevation, KOM times) 
   and difficulty scores based on a physics model.
-  [GitHub Repo](https://github.com/PascalFewi/komqom) | [Live App](https://komqom.app) (still restricted in Sandbox mode, waiting for Strava approval 😴)
+  [GitHub Repo](https://github.com/PascalFewi/komqom) | [Live App](https://komqom.app) (still restricted in Sandbox mode, waiting for Strava approval 😴. Also Strava will remove the `/exploreSegments` endpoint in september 2026 ... )
 
   
 Football ⚽ :
