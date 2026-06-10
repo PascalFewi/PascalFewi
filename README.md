@@ -23,6 +23,9 @@ Cycling 🚴 :
   
 Football ⚽ :
 
+- **SRF Tippspiel EV-Optimizer** – A layer on top of the odds-api.io API that computes the expected value of each possible scoreline for the SRF Tippspiel, and surfaces the tip that maximizes your expected points instead of just the most likely result.
+  [GitHub Repo](https://github.com/PascalFewi/srf_tippspiel) | [Live App](https://pascalfewi.github.io/srf_tippspiel/)
+
 - **Meischter-Rächner** – An interactive table that shows based on the inputed outcomes form the user, when FC Basel would officially become Swiss champion. 
   [GitHub Repo](https://github.com/PascalFewi/Meischter-Raechner) | [Live App](https://pascalfewi.github.io/Meischter-Raechner/)
 
