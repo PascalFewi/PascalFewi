@@ -47,6 +47,7 @@ Some Wordpress / WebDev work for clients:
 
 - **Gedruckt in Basel.** [gedruckt-in-basel.ch/](https://gedruckt-in-basel.ch/)
 - **Klick für Druck** [k-f-d.ch/](https://k-f-d.ch/)
+- **Quartett Spiel** [auto-quartett.ch](auto-quartett.ch)
 - **MBImmoeasy** [www.mbimmoeasy.ch/](https://www.mbimmoeasy.ch/)
 - **Druckerei Dietrich** [druckerei-dietrich.ch/](https://druckerei-dietrich.ch/)
 - **Blueme Atelier** [blueme-atelier.ch/](https://blueme-atelier.ch/)
