@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Pascal!
 Studying Computer Science at ETH Zürich
 
-I'm interested in analyzing and visualizing data as well as Computer Vision.
+I'm interested in ML, AI, as well as Computer Vision.
 Usually about my favorite Sports (football / cycling) or more recently also on prediciton markets. 
 
 Currently working on making my bachelor thesis "Pose Estimation for Bike Fitting" available. 
@@ -31,11 +31,9 @@ Football ⚽ :
 
 - **20min Fantasy Squad** – Tried to optimize my fantasy squad based on the performance of last season using a knapsack approach for points per cost.  [GitHub Repo](https://github.com/PascalFewi/20minfantasy)
 
-- **Swisslos Odds Crawler** – Scrapes betting odds from Swisslos to find best bets. Project was used for the UEFA EUROS 2024. 
-  [GitHub Repo](https://github.com/PascalFewi/EM2024_BettingOdds_Crawler)
 
 
-PolyMarket 💠 : 
+PolyMarket 💠 (Project stopped as too expensive) : 
 
 - **Polymarket Orderbook Collector** – Archives Polymarket order book data. Collects polymarket bets over the official polymarket websocket and arhcives it.   
   [GitHub Repo](https://github.com/PascalFewi/polymarket-data)
@@ -45,7 +43,7 @@ PolyMarket 💠 :
 
 
 
-Some Wordpress / WebDev work: 
+Some Wordpress / WebDev work for clients: 
 
 - **Gedruckt in Basel.** [gedruckt-in-basel.ch/](https://gedruckt-in-basel.ch/)
 - **Klick für Druck** [k-f-d.ch/](https://k-f-d.ch/)
